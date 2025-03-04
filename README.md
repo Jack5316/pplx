@@ -4,7 +4,7 @@ A command-line tool for searching and exporting information using the Perplexity
 
 **Version:** 1.0.0  
 **Last Updated:** 2025-03-04  
-**Maintained by:** Jack5316
+**Maintained by:** Jiawei (Jack) Tan
 
 ## Features
 
